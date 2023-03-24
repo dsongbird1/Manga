@@ -1,0 +1,17 @@
+{
+  "title": "Houseki no Kuni",
+  "description": "",
+  "artist": "Haruko Ichikawa",
+  "author": "",
+  "cover": "https://i.imgur.com/lQh6wrj.png",
+  "chapters": {
+    "101": {
+      "title": "101",
+      "volume": "13",
+      "last_updated": "1679682498",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IvR8DS4"
+      }
+    }
+  }
+}
