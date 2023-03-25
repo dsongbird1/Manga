@@ -1,0 +1,57 @@
+{
+  "title": "Houseki no Kuni",
+  "description": "",
+  "artist": "Haruko Ichikawa",
+  "author": "Haruko Ichikawa",
+  "cover": "https://i.imgur.com/xRwrziT.png",
+  "chapters": {
+    "0": {
+      "title": "Houseki no Kuni - Prototype",
+      "volume": "0",
+      "last_updated": "1663913884",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/OX3ZtfM"
+      }
+    },
+    "96": {
+      "title": "10,000 Years",
+      "volume": "12",
+      "last_updated": "1658681507",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/hYhqG7b"
+      }
+    },
+    "97": {
+      "title": "Dream",
+      "volume": "12",
+      "last_updated": "1658681539",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/so3ZWoT"
+      }
+    },
+    "98": {
+      "title": "Prayer",
+      "volume": "12",
+      "last_updated": "1661275027",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/oByD8ZF"
+      }
+    },
+    "99": {
+      "title": "Beginning",
+      "volume": "13",
+      "last_updated": "1669311180",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/NMoaU7l"
+      }
+    },
+    "100": {
+      "title": "Harmony",
+      "volume": "13",
+      "last_updated": "1677260553",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/6AdkaV6"
+      }
+    }
+  }
+}
