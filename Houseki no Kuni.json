@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Haruko Ichikawa",
   "author": "",
-  "cover": "https://i.imgur.com/VK8RJC1.png",
+  "cover": "https://i.imgur.com/ROK7cLf.png",
   "chapters": {
     "0": {
       "title": "Houseki no Kuni - Prototype",
@@ -67,6 +67,14 @@
       "last_updated": "1682380670",
       "groups": {
         "Yaku Translations": "/proxy/api/imgur/chapter/gi8wkEv"
+      }
+    },
+    "103": {
+      "title": "Purity",
+      "volume": "13",
+      "last_updated": "1692827280",
+      "groups": {
+        "Yaku Translations": "/proxy/api/imgur/chapter/q08LW7V"
       }
     }
   }
